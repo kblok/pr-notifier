@@ -1,4 +1,4 @@
-This NodeJS App will go through all open PRs in your repos and it will show you which PRs have new commits after your the last time you have commented or which of the PRs you're the author are not mergeable
+This NodeJS App will go through all open PRs in your repos and it will show you which PRs have new commits after the last time you have commented or which of the PRs you're the author are not mergeable
 
 GitHub API v3 doesn't support Reactions, so your reactions will be ignored 
 
