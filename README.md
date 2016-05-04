@@ -10,7 +10,7 @@ data.json has 3 sections
 1. General setup
 
  * slackHookUrl: well, the slack hook url
- * slackToken: Your auth token
+ * githubToken: Your auth token
  * debug: Whether the app should print the activity in the console or not
  * outputToSlack: If false the result will be printed on the console
  * slackIcon: Your favorite slack icon
